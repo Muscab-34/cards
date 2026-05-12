@@ -1,0 +1,146 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+body{
+    background-color: #F0D3D3;
+    font-family: lato;
+}
+.main{
+    display: flex;
+    gap: 50px;
+}
+.main h1{
+    padding-left: 60px;
+    padding-top: 50px;
+    font-family: lato;
+    font-size: 20px;
+}
+.cardss{
+        width:350px ;
+    height: 235px;
+    background-color:#ffffff ;
+    border-radius: 31px;
+    margin-left: 40px;
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+
+}
+.cards{
+    width:350px ;
+    height: 235px;
+    background-color:#5513F0 ;
+    border-radius: 31px;
+    margin-left: 60px;
+    margin-top: 10px;
+    color: white;
+    transition:  ease-in 1s;
+}
+.tex1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 40px;
+}
+.text2{
+    display: flex;
+    gap: 60px;
+    padding-left: 50px;
+        padding-top: 40px;
+
+
+
+}
+.holder{
+    font-weight: normal;
+    font-family: lato;
+    color: #E3E2E2;
+    font-size: 10px;
+
+}
+.hol {
+    color: #AAAAAA;
+}
+.text2 .valid2{
+    color: #AAAAAA;
+}
+.text2 .muscb{
+    color: black;
+}
+.text2 span{
+    font-weight: bold;
+    color: white;
+}
+.valid{
+        font-weight: normal;
+    font-family: lato;
+    color: #E3E2E2;
+    font-size: 10px;
+
+
+}
+.shapes{
+    display: flex;
+    gap: 30px;
+    width: 350px;
+    height: 58px;
+    border-radius: 0px 0px 31px 31px;
+    margin-top: 60px;
+    background: linear-gradient(rgba(255, 255, 255, 0.352),rgba(255, 255, 255, 0));
+}
+.shpes{
+    border-top: 0.5px solid black;
+}
+.shapes h1{
+    font-size: 20px;
+    color: #E3E2E2;
+    padding-left: 50px;
+    padding-top: 17px;
+
+}
+.shpes h1{
+    color: black;
+}
+.she1{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.783);
+
+}
+.shap1{
+    background-color: #acababc2;
+
+}
+.tshape .s2{
+        width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #acabab90;
+    margin-left: 10px;
+    margin-top: -25px;
+}
+.sh2{
+        width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.566);
+    margin-left: 10px;
+    margin-top: -25px;
+    
+
+}
+.twoshape{
+    /* display: flex; */
+    margin-top: 16px;
+    margin-left: 30px;
+
+}
