@@ -8,6 +8,21 @@
     margin: 0px;
     
 }
+
+.header{
+    display: flex;
+    height: 50px;
+    justify-content: space-around;
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    align-items: center;
+}
+.header ul{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
 body{
     background-color: #F0D3D3;
     font-family: lato;
